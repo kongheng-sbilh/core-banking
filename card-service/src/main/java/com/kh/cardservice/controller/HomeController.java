@@ -1,6 +1,6 @@
 package com.kh.cardservice.controller;
 
-import com.kh.authenticationservice.constant.AppUser;
+import com.kh.serviceutil.constant.AppUser;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

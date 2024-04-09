@@ -1,4 +1,4 @@
-package com.kh.authenticationservice.constant;
+package com.kh.serviceutil.constant;
 
 public class AppUser {
     public static final String userName = "abc";

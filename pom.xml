@@ -18,6 +18,7 @@
 	</properties>
 	<packaging>pom</packaging>
 	<modules>
+		<module>service-util</module>
 		<module>authentication-service</module>
 		<module>card-service</module>
 	</modules>
